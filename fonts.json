@@ -1,0 +1,335 @@
+{
+    "BECAG-Heavy": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            1
+        ],
+        "embedded": false
+    },
+    "UniversCE-Bold": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            1
+        ],
+        "embedded": false
+    },
+    "MyriadPro-Regular": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            1,
+            28
+        ],
+        "embedded": false
+    },
+    "Helvetica": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            1,
+            2
+        ],
+        "embedded": false
+    },
+    "Afrika": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            1,
+            27
+        ],
+        "embedded": false
+    },
+    "AvantGarde-CondMedium": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            2
+        ],
+        "embedded": false
+    },
+    "AvantGarde-Bold": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            2,
+            28
+        ],
+        "embedded": false
+    },
+    "AvantGarde-Medium": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            2,
+            28
+        ],
+        "embedded": false
+    },
+    "AvantGarde-CondDemi": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            2
+        ],
+        "embedded": false
+    },
+    "AvantGarde-CondBold": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            2
+        ],
+        "embedded": false
+    },
+    "AdLibBT-Regular": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            22,
+            23,
+            24,
+            25,
+            26
+        ],
+        "embedded": false
+    },
+    "CaslonBookBE-Bold": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            3,
+            4,
+            5,
+            24,
+            25
+        ],
+        "embedded": false
+    },
+    "AmericanaBT-ExtraBold": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            3,
+            8,
+            9,
+            14,
+            15,
+            18,
+            19
+        ],
+        "embedded": false
+    },
+    "AmericanNatives": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "embedded": false
+    },
+    "Berkeley-Black": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+        ],
+        "embedded": false
+    },
+    "Berkeley-Medium": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            26
+        ],
+        "embedded": false
+    },
+    "Futura-Book": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            6,
+            7
+        ],
+        "embedded": false
+    },
+    "Futura": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            6,
+            7,
+            24,
+            25
+        ],
+        "embedded": false
+    },
+    "Agenda-Bold": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            6,
+            7,
+            12,
+            13,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            27
+        ],
+        "embedded": false
+    },
+    "Berkeley-Bold": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            6,
+            7,
+            10,
+            11,
+            12,
+            13,
+            16,
+            17,
+            20,
+            21,
+            22,
+            23,
+            28
+        ],
+        "embedded": false
+    },
+    "Agenda-BoldCondensed": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            12,
+            13,
+            16,
+            17,
+            22,
+            23,
+            24,
+            25,
+            27
+        ],
+        "embedded": false
+    },
+    "Berkeley-Italic": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            14,
+            15,
+            16,
+            17
+        ],
+        "embedded": false
+    },
+    "CaslonTwoTwentyFour-Bold": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            24,
+            25
+        ],
+        "embedded": false
+    },
+    "Agenda-Medium": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            24,
+            25,
+            27,
+            28
+        ],
+        "embedded": false
+    },
+    "GaramondThree-Bold": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            28
+        ],
+        "embedded": false
+    },
+    "AvantGarde-Demi": {
+        "type": "Type1",
+        "encoding": "cff",
+        "pages": [
+            28
+        ],
+        "embedded": false
+    }
+}

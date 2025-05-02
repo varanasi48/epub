@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="epub978-1-4108-6040-8" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Book Title</dc:title>
+    <dc:identifier id="epub978-1-4108-6040-8">978-1-4108-6040-8</dc:identifier>
+    <dc:language>en-US</dc:language>
+    <dc:creator>Author Name</dc:creator>
+    <dc:publisher>Publisher Name</dc:publisher>
+    <dc:rights>© Publisher Name</dc:rights>
+    <meta name="cover" content="cover-image" />
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:orientation">landscape</meta>
+    <meta property="rendition:spread">both</meta>
+    <meta property="media:active-class">-epub-media-overlay-active</meta>
+    <meta property="dcterms:modified">{datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")}</meta>
+</metadata>
+
+<manifest>
+    <!-- Navigation -->
+    <item id="toc1" href="html/nav.xhtml" properties="nav" media-type="application/xhtml+xml"/>
+    
+    <!-- HTML Pages -->
+    <item id="page001" href="html/page001/page001.html" media-type="application/xhtml+xml"/>
+    <item id="page002" href="html/page002/page002.html" media-type="application/xhtml+xml"/>
+    <item id="page003" href="html/page003/page003.html" media-type="application/xhtml+xml"/>
+    <item id="page004" href="html/page004/page004.html" media-type="application/xhtml+xml"/>
+    <item id="page005" href="html/page005/page005.html" media-type="application/xhtml+xml"/>
+    <item id="page006" href="html/page006/page006.html" media-type="application/xhtml+xml"/>
+    <item id="page007" href="html/page007/page007.html" media-type="application/xhtml+xml"/>
+    <item id="page008" href="html/page008/page008.html" media-type="application/xhtml+xml"/>
+    <item id="page009" href="html/page009/page009.html" media-type="application/xhtml+xml"/>
+    <item id="page010" href="html/page010/page010.html" media-type="application/xhtml+xml"/>
+    <item id="page011" href="html/page011/page011.html" media-type="application/xhtml+xml"/>
+    <item id="page012" href="html/page012/page012.html" media-type="application/xhtml+xml"/>
+    <item id="page013" href="html/page013/page013.html" media-type="application/xhtml+xml"/>
+    <item id="page014" href="html/page014/page014.html" media-type="application/xhtml+xml"/>
+    <item id="page015" href="html/page015/page015.html" media-type="application/xhtml+xml"/>
+    <item id="page016" href="html/page016/page016.html" media-type="application/xhtml+xml"/>
+    <item id="page017" href="html/page017/page017.html" media-type="application/xhtml+xml"/>
+    <item id="page018" href="html/page018/page018.html" media-type="application/xhtml+xml"/>
+    <item id="page019" href="html/page019/page019.html" media-type="application/xhtml+xml"/>
+    <item id="page020" href="html/page020/page020.html" media-type="application/xhtml+xml"/>
+    <item id="page021" href="html/page021/page021.html" media-type="application/xhtml+xml"/>
+    <item id="page022" href="html/page022/page022.html" media-type="application/xhtml+xml"/>
+    <item id="page023" href="html/page023/page023.html" media-type="application/xhtml+xml"/>
+    <item id="page024" href="html/page024/page024.html" media-type="application/xhtml+xml"/>
+    <item id="page025" href="html/page025/page025.html" media-type="application/xhtml+xml"/>
+    <item id="page026" href="html/page026/page026.html" media-type="application/xhtml+xml"/>
+    <item id="page027" href="html/page027/page027.html" media-type="application/xhtml+xml"/>
+    <item id="page028" href="html/page028/page028.html" media-type="application/xhtml+xml"/>
+    
+    <!-- CSS Files -->
+    <item id="css_page001" href="css/css_page001.css" media-type="text/css"/>
+    <item id="css_page002" href="css/css_page002.css" media-type="text/css"/>
+    <item id="css_page003" href="css/css_page003.css" media-type="text/css"/>
+    <item id="css_page004" href="css/css_page004.css" media-type="text/css"/>
+    <item id="css_page005" href="css/css_page005.css" media-type="text/css"/>
+    <item id="css_page006" href="css/css_page006.css" media-type="text/css"/>
+    <item id="css_page007" href="css/css_page007.css" media-type="text/css"/>
+    <item id="css_page008" href="css/css_page008.css" media-type="text/css"/>
+    <item id="css_page009" href="css/css_page009.css" media-type="text/css"/>
+    <item id="css_page010" href="css/css_page010.css" media-type="text/css"/>
+    <item id="css_page011" href="css/css_page011.css" media-type="text/css"/>
+    <item id="css_page012" href="css/css_page012.css" media-type="text/css"/>
+    <item id="css_page013" href="css/css_page013.css" media-type="text/css"/>
+    <item id="css_page014" href="css/css_page014.css" media-type="text/css"/>
+    <item id="css_page015" href="css/css_page015.css" media-type="text/css"/>
+    <item id="css_page016" href="css/css_page016.css" media-type="text/css"/>
+    <item id="css_page017" href="css/css_page017.css" media-type="text/css"/>
+    <item id="css_page018" href="css/css_page018.css" media-type="text/css"/>
+    <item id="css_page019" href="css/css_page019.css" media-type="text/css"/>
+    <item id="css_page020" href="css/css_page020.css" media-type="text/css"/>
+    <item id="css_page021" href="css/css_page021.css" media-type="text/css"/>
+    <item id="css_page022" href="css/css_page022.css" media-type="text/css"/>
+    <item id="css_page023" href="css/css_page023.css" media-type="text/css"/>
+    <item id="css_page024" href="css/css_page024.css" media-type="text/css"/>
+    <item id="css_page025" href="css/css_page025.css" media-type="text/css"/>
+    <item id="css_page026" href="css/css_page026.css" media-type="text/css"/>
+    <item id="css_page027" href="css/css_page027.css" media-type="text/css"/>
+    <item id="css_page028" href="css/css_page028.css" media-type="text/css"/>
+    <item id="template" href="css/template.css" media-type="text/css"/>
+    
+    <!-- Fonts -->
+    <item id="becag_heavy" href="fonts/BECAG-Heavy.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="universce_bold" href="fonts/UniversCE-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="myriadpro_regular" href="fonts/MyriadPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="helvetica" href="fonts/Helvetica.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="afrika" href="fonts/Afrika.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="avantgarde_condmedium" href="fonts/AvantGarde-CondMedium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="avantgarde_bold" href="fonts/AvantGarde-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="avantgarde_medium" href="fonts/AvantGarde-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="avantgarde_conddemi" href="fonts/AvantGarde-CondDemi.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="avantgarde_condbold" href="fonts/AvantGarde-CondBold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="adlibbt_regular" href="fonts/AdLibBT-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="caslonbookbe_bold" href="fonts/CaslonBookBE-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="americanabt_extrabold" href="fonts/AmericanaBT-ExtraBold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="americannatives" href="fonts/AmericanNatives.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="berkeley_black" href="fonts/Berkeley-Black.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="berkeley_medium" href="fonts/Berkeley-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="futura_book" href="fonts/Futura-Book.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="futura" href="fonts/Futura.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="agenda_bold" href="fonts/Agenda-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="berkeley_bold" href="fonts/Berkeley-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="agenda_boldcondensed" href="fonts/Agenda-BoldCondensed.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="berkeley_italic" href="fonts/Berkeley-Italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="caslontwotwentyfour_bold" href="fonts/CaslonTwoTwentyFour-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="agenda_medium" href="fonts/Agenda-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="garamondthree_bold" href="fonts/GaramondThree-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="avantgarde_demi" href="fonts/AvantGarde-Demi.otf" media-type="application/vnd.ms-opentype"/>
+    
+    <!-- Images -->
+    <item id="cover-image" href="images/cover.jpg" media-type="image/jpeg"/>
+</manifest>
+
+<spine>
+    <itemref idref="page001"/>
+    <itemref idref="page002"/>
+    <itemref idref="page003"/>
+    <itemref idref="page004"/>
+    <itemref idref="page005"/>
+    <itemref idref="page006"/>
+    <itemref idref="page007"/>
+    <itemref idref="page008"/>
+    <itemref idref="page009"/>
+    <itemref idref="page010"/>
+    <itemref idref="page011"/>
+    <itemref idref="page012"/>
+    <itemref idref="page013"/>
+    <itemref idref="page014"/>
+    <itemref idref="page015"/>
+    <itemref idref="page016"/>
+    <itemref idref="page017"/>
+    <itemref idref="page018"/>
+    <itemref idref="page019"/>
+    <itemref idref="page020"/>
+    <itemref idref="page021"/>
+    <itemref idref="page022"/>
+    <itemref idref="page023"/>
+    <itemref idref="page024"/>
+    <itemref idref="page025"/>
+    <itemref idref="page026"/>
+    <itemref idref="page027"/>
+    <itemref idref="page028"/>
+</spine>
+</package>
